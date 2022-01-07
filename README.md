@@ -1,8 +1,10 @@
 # app-shop
 
-e-commerce app using MERN
+## e-commerce app using MERN
 
 
+
+## Available Scripts
 
 In the Admin directory, you can run:
 
